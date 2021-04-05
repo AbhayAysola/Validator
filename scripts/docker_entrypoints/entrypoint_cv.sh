@@ -30,7 +30,7 @@ init_node() {
       --protocol http \
       --ip_address "$PUBLIC_IP_ADDRESS" \
       --port "$NODE_PORT" \
-      --root_account_file https://gist.githubusercontent.com/buckyroberts/395c946b33b9a458d677c919ae3f00b1/raw/55acc740cb25d2b4d02430f096b225e70677ec23/alpha-02.json \
+      --root_account_file https://gist.githubusercontent.com/AbhayAysola/d5c7f594ccd3cfa515e607ecead90c22/raw/e568ecd1ef62a4390faa9dcdc31cd37251a22167/root-account-file.json \
       --version_number v1.0 \
       --unattended
 
